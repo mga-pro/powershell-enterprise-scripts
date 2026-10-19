@@ -5,8 +5,8 @@ Collection of PowerShell scripts for Microsoft Endpoint Management, Windows admi
 ## WiFi Roaming Configuration
 Configure roaming aggressiveness settings for Intel and Realtek wireless adapters.
 
-## UEFI CA 2023 Check
-Verify presence of Microsoft UEFI CA 2023 certificates.
+## UEFI CA 2023
+Verify presence and update of Microsoft UEFI CA 2023 certificates.
 
 ## MM30 Prep
 Prepare Windows devices for MobileMark 30 benchmarking.
